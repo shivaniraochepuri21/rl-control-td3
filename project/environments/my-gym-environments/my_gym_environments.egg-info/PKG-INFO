@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: my_gym_environments
+Version: 0.0.1
+Summary: Multiple Custom Gymnasium environments
+Author: Shivani Chepuri
+Author-email: shivanirao.chepuri21@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: gymnasium==0.29.0

@@ -1,0 +1,2 @@
+numpy
+gymnasium==0.29.0
